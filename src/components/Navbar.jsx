@@ -34,7 +34,7 @@ const Navbar = () => {
         <li className="border-b-2 border-zinc-300 w-full">Pricing</li>
         <div className="flex flex-col my-1">
             <button className="bg-transparent text-indigo-600 px-8 py-3 mb-4">Sign In</button>
-            <button className="px-8 py-3 mb-4">Sign Up</button>
+            <button className="px-8 py-1 mb-4">Sign Up</button>
         </div>
       </ul>
     </div>
